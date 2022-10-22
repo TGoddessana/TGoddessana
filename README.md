@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TGoddessana&desc=Welcome%20to%20my%20profile&fontSize=70&descSize=30&fontAlignY=200" />
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TGoddessana&desc=Welcome%20to%20my%20profile&fontSize=70&descSize=30&fontAlignY=30" />
   
 --- 
 
