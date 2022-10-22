@@ -1,7 +1,5 @@
 
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TGoddessana&fontSize=100" />
-
-
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TGoddessana&desc=Welcome%20to%20myt%20profile&fontSize=70" />
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
