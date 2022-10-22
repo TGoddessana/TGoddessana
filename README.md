@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20TGoddessana%20Profile%20&desc=Python%20backend %20devloper&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20TGoddessana%20Profile%20&desc=Python%20backend%20devloper&height=300&fontSize=100&textBg=true)
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
