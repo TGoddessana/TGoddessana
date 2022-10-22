@@ -1,3 +1,6 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 - 👋 Hi, I’m @TGoddessana.
 - 👀 I’m interested in Django, Spring.
 - welcome to my repository :D
