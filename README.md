@@ -1,5 +1,5 @@
 
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=TGoddessana20render&fontSize=100" />
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=TGoddessana&fontSize=100" />
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
